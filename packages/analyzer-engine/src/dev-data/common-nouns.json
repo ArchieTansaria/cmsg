@@ -1,0 +1,272 @@
+[
+  "ui","ux","design","interface","experience","theme","mode","dark","light",
+  "color","palette","font","typography","icon","iconset","logo","brand","branding",
+  "layout","grid","flex","spacing","padding","margin","alignment","column","row",
+  "section","container","wrapper","box","card","panel","sheet","surface","banner",
+  "hero","header","footer","navbar","sidebar","menu","submenu","breadcrumb","tab",
+  "toolbar","navigation","nav","link","route","router","page","screen","view","frame",
+  "canvas","dialog","modal","popup","drawer","sheet","overlay","tooltip","toast",
+  "notification","alert","badge","chip","tag","pill","avatar","indicator",
+  "progress","spinner","loader","loading","widget","component","element","item",
+  "input","field","textbox","textarea","dropdown","select","option","checkbox",
+  "radiobutton","toggle","switch","slider","stepper","progressbar","form","label",
+  "placeholder","hint","helper","caption","title","subtitle","description","summary",
+  "table","row","column","cell","list","listitem","griditem","image","picture",
+  "thumbnail","gallery","video","media","animation","transition","shadow","border",
+  "divider","separator","background","texture","pattern","shape","iconbutton",
+  "carousel","slider","timeline","chipset","breadcrumb","tabpanel","accordion",
+  "rating","review","comment","feed","post","profile"
+  ,
+  "backend","server","client","service","endpoint","route","router","controller",
+  "handler","middleware","pipeline","processor","job","task","queue","worker",
+  "thread","pool","scheduler","cron","runner","serviceworker","daemon","agent",
+  "broker","gateway","proxy","reverseproxy","loadbalancer","balancer","cache",
+  "store","state","context","session","instance","resource","module","package",
+  "library","framework","engine","kernel","runtime","platform","system","backendlogic",
+  "serviceapi","subsystem","componentapi","architecture","layer","stack","interface",
+  "contract","protocol","spec","specification","adapter","bridge","facade","factory",
+  "singleton","observer","publisher","subscriber","middlewarechain","tokenizer",
+
+  "api","rest","graphql","gql","mutation","query","schema","resolver","directive",
+  "subscription","payload","header","cookie","param","parameter","queryparam",
+  "pathparam","body","request","response","status","method","verb","webhook","callback",
+  "integration","sdk","clientlib","transport","serializer","deserializer","codec",
+  "format","mime","header","json","xml","protobuf","message","command","event",
+  "eventbus","eventstream","eventqueue","stream","channel","websocket","socket",
+  "tcp","udp","packet","connection","session","handshake","latency","bandwidth",
+  "throughput","timeout","reconnect","heartbeat","ping","pong","dns","ip","ipv4",
+  "ipv6","host","hostname","port","origin","domain","subdomain","proxy","gateway",
+  "routerengine","loadbalancer","cdn","edge","edgefunction","traffic","requestid",
+
+  "microservice","service","serviceinstance","servicecluster","servicegraph",
+  "mesh","serviceregistry","discovery","orchestrator","coordinator","configserver",
+
+  "log","logging","logger","message","record","entry","trace","span","metric",
+  "telemetry","signal","signalhandler","monitor","monitoring","alert","alarm",
+  "watcher","inspector","profiler","debugger","diagnostic","capture","snapshot"
+  ,
+  "auth","authentication","authorization","identity","session","login","logout",
+  "signin","signout","signup","register","registration","account","profile",
+  "user","useraccount","accountsettings","credential","password","passcode",
+  "secret","token","accesstoken","refreshtoken","idtoken","jwttoken","jwt",
+  "apikey","otp","code","challenge","salt","hash","digest","fingerprint",
+  "verification","verifier","verifiercode","validator","authflow",
+  "mfa","2fa","factor","security","securityrule","policy","permission",
+  "role","rolemap","rolebinding","scope","grant","privilege","entitlement",
+  "restriction","limit","block","access","accesspolicy","accessrule",
+  "consent","approval","challenge","sessionstore","sessionid","deviceid",
+
+  "oauth","oauth2","openid","openidconnect","oidc","sso","samlsession",
+  "authserver","authprovider","idp","identityprovider","directory",
+  "userstore","keystore","truststore","certificate","cert","csr","privatekey",
+  "publickey","keypair","tokenstore","sessionmanager","authenticator",
+  "authorizer","verifier","signer","encrypter","decrypter",
+
+  "breach","threat","risk","attack","exploit","vulnerability",
+  "protection","firewall","rate limit","ratelimiter","limit","throttle",
+  "audit","auditlog","auditevent","accesslog","securitycheck","securityscan",
+
+  "lock","unlock","attempt","failure","success","passphrase","phrase",
+  "challengecode","reset","recovery","recoverycode","backupcode",
+  "trust","identitygraph","identityrecord"
+  ,
+  "db","database","datastore","datasource","data","dataset","datatable","datarow",
+  "datacolumn","record","row","column","cell","entry","document","doc","item",
+  "object","entity","model","recordset","result","resultset","cursor","view",
+  "materializedview","table","collection","bucket","index","subindex","key",
+  "primarykey","foreignkey","uniquekey","compositekey","shard","partition",
+  "segment","cluster","replica","replication","leader","follower","node",
+  "nodegroup","transaction","savepoint","commit","rollback","snapshot","backup",
+  "restore","dump","import","export","migration","seed","seeding","schema",
+  "schemafile","migrationfile","relation","join","innerjoin","leftjoin",
+  "rightjoin","crossjoin","query","select","insert","update","delete",
+  "mutation","filter","sort","order","group","aggregate","projection",
+  "pipeline","stage","operator","expression","condition","constraint",
+  "rule","trigger","procedure","function","routine",
+
+  "mongo","mongodb","collectionstore","documentstore","postgres","postgresql",
+  "mysql","sqlite","redis","memcache","dynamodb","bigtable","firestore",
+  "supabase","neon","planet","timeseries","timeseriesdb",
+
+  "orm","odm","prisma","sequelize","mongoose","mikroorm","drizzle","knex",
+  "querybuilder","dsl","modelmap","modeldefinition","modelclass","migrationrunner",
+
+  "cache","cachelayer","redisstore","keystore","kvstore","memorystore",
+  "localstorage","sessionstorage","blob","blobstore","filestore","objectstore",
+
+  "datastructure","tree","trie","graph","edge","vertex","map","set","stack",
+  "queue","heap","buffer","stream","chunk","block","segment","page","offset",
+
+  "metadata","metatable","descriptor","definition","manifest","registry",
+  "catalog","directory","namespace"
+  ,
+  "file","folder","directory","path","filepath","pathname","routefile","indexfile",
+  "readme","changelog","license","config","configfile","configset","settings",
+  "preset","template","blueprint","manifest","environment","env","dotenv",
+  "variable","secret","property","flag","parameter","option","profile","alias",
+
+  "asset","image","icon","sprite","font","video","audio","media","svg","png",
+  "jpeg","gif","bitmap","thumbnail","resource","bundle","pack","package",
+  "archive","zip","tar","gzip","logfile","tracefile","dumpfile",
+
+  "script","shellscript","bashscript","batch","automation","task","taskfile",
+  "job","pipeline","workflow","step","runner","executor","provider","agent",
+  "action","githubaction","ci","cd","cicd","build","buildscript","buildstep",
+
+  "docker","dockerfile","container","image","containerimage","registry",
+  "dockercompose","compose","volume","network","servicecontainer","initcontainer",
+
+  "kubernetes","k8s","cluster","pod","deployment","statefulset","replicaset",
+  "daemonset","job","cronjob","ingress","service","configmap","secretstore",
+  "helmchart","chart","release","namespace","nodepool",
+
+  "cloud","aws","gcp","azure","lambda","cloudfunction","bucket","objectstore",
+  "vpc","subnet","firewall","securitygroup","role","policy","iam","iamrole",
+  "instance","ec2","ecs","eks","fargate","gateway","loadbalancer","alb","nlb",
+  "cdn","edge","distribution","endpointservice",
+
+  "infra","infrastructure","provision","provisioner","terraform","terragrunt",
+  "ansible","playbook","inventory","stack","template","resourcegroup","scaling",
+  "autoscaler","monitor","monitoring","metric","alert","dashboard","panel",
+
+  "buildsystem","bundler","webpack","vite","rollup","parcel","compiler",
+  "transpiler","minifier","optimizer","processor","preprocessor","postprocessor",
+  "linter","formatter","prettier","eslint","stylelint","tsconfig","babel",
+
+  "artifact","release","tag","version","versionfile","lockfile","checksum",
+  "signature","distribution","packagefile","dependency","modulemap","moduletable"
+  ,
+  "git","github","gitlab","bitbucket","repository","repo","monorepo","subrepo",
+  "branch","main","master","featurebranch","hotfixbranch","releasebranch",
+  "tag","version","commit","commitmsg","message","diff","patch","change",
+  "changeset","pull","push","fetch","merge","rebase","cherry-pick","checkout",
+  "clone","fork","remote","origin","upstream","submodule","hook","precommit",
+  "postcommit","lintstaged","worktree","index","staging","stage","snapshot",
+  "cache","stash","stashlist","stashitem","restore","reset","revert","history",
+
+  "workflow","pipeline","action","ci","cd","job","step","runner","task","command",
+  "script","hookfile","configfile","gitignore","gitattributes","gitmodules",
+
+  "pr","pullrequest","merge request","mr","draftpr","review","codereview",
+  "reviewer","approver","approval","comment","commentthread","suggestion",
+  "inlinecomment","discussion","resolution","feedback","check","checkrun",
+  "statuscheck","coverage","artifact","attachment","build","release",
+
+  "issue","ticket","bug","task","milestone","label","project","board","workflow",
+  "kanban","card","assignment","assignee","reporter","owner","maintainer",
+  "contributor","collaborator","team","group","organization",
+
+  "commitid","sha","hash","log","blame","annotate","historyview","timeline",
+  "reference","ref","tagref","branchref","pointer","head","headref",
+
+  "pipelinestep","pipelinelog","joblog","buildlog","artifactstore",
+  "releasepage","deploylog"
+  ,
+  "test","tests","testing","unittest","integrationtest","e2etest","endtoend",
+  "functionaltest","smoketest","regressiontest","uat","qa","quality",
+  "qualitycheck","qualitygate","verification","validation","scenario","case",
+  "testcase","testfile","testfolder","testgroup","suite","testsuite","spec",
+  "specfile","example","fixture","mock","mockdata","mockserver","mockservice",
+  "spy","stub","fake","sandbox","snapshot","snapshotfile","match","matcher",
+  "assertion","assert","expectation","expect","check","coverage","coveragereport",
+  "metric","threshold","percent","mockapi","mockresponse","mockpayload",
+  "mockdb","testutils","testhelper","testinglibrary","testrunner","testrunner",
+  "watchmode","retry","rerun","flakytest","timing","latency","perfcheck",
+  "benchmark","benchmarktest","loadtest","stress","stressTest","chaosTest",
+  "report","reportfile","reporter","summary","trace","log","diagnostic",
+  "profiling","capture","recording","sessionrecord","screenrecord","harfile",
+
+  "pipeline","testpipeline","testrunnerjob","job","step","phase","stage",
+  "ci","cd","cicd","githubaction","checkrun","buildcheck","verificationstep",
+
+  "environment","env","testenv","mockenv","localenv","staging","prod",
+  "sandboxenv","isolation","container","containerenv","sandboxcontainer",
+
+  "validator","validatorengine","mockengine","verifier","checker","linter",
+  "staticanalysis","securityscan","scan","audit","auditlog","testartifact"
+  ,
+  "error","errors","exception","fault","failure","crash","bug","issue",
+  "incident","outage","downtime","bottleneck","deadlock","racecondition",
+  "timeout","overflow","underflow","mismatch","violation","panic","abort",
+  "retry","fallback","retrylogic","backoff","breaker","circuitbreaker",
+
+  "message","errormessage","stacktrace","trace","log","logentry","logger",
+  "logfile","event","eventlog","eventstream","eventtrace","signal","signalhandler",
+  "alert","alarm","warning","notification","report","summary","details",
+  "payload","response","status","code","errorcode","exitcode","reason",
+
+  "debug","debugger","breakpoint","watch","watcher","inspector","devtools",
+  "console","print","printout","dump","heapsnapshot","memorydump","profile",
+  "profiler","profilingsession","cpu","cpuprofile","tracefile","diagnostic",
+  "diagnostics","capture","recording","monitor","monitoring","telemetry",
+  "metric","counter","gauge","histogram","span","tracing","observability",
+  "apm","loglevel","severity","signal","eventbus","eventloop",
+
+  "healthcheck","heartbeat","probe","readinessprobe","livenessprobe",
+  "statuspage","uptime","latency","throughput","load","traffic","capacity",
+  "peak","surge","threshold","trigger","anomaly","violation","detection",
+  "detector","watchdog","monitoragent","collector","instrumentation",
+
+  "crashlog","errorlog","audit","auditlog","audittrail","insight",
+  "debugsession","stack","stackframe","frame","contextframe","memory",
+  "heap","buffer","overflowevent","paniclog"
+  ,
+  "app","application","project","module","library","package","service","tool",
+  "utility","helper","helperfn","helperfile","class","object","instance",
+  "interface","type","typedef","enum","constant","variable","property",
+  "attribute","argument","parameter","value","subset","superset","state",
+  "context","store","container","provider","consumer","hook","effect",
+  "ref","reference","pointer","mapping","wrapper","adapter","bridge",
+  "layer","stack","pipeline","queue","map","set","pair","node","tree","graph",
+  "vertex","edge","path","route","flow","workflow","process","thread",
+
+  "task","job","action","operation","step","stage","sequence","transition",
+  "event","callback","listener","handler","dispatcher",
+
+  "algorithm","logic","rule","policy","strategy","pattern","template",
+  "blueprint","formula","method","routine","procedure","operation",
+
+  "framework","runtime","platform","environment","engine","core","kernel",
+  "base","foundation","system","subsystem","component","modulegraph","dependency",
+
+  "feature","capability","function","functionality","construct","expression",
+  "statement","instruction","keyword","token","symbol","operator","operand",
+
+  "buffer","stream","channel","chunk","segment","page","block","frame","slot",
+  "region","zone","window","queueitem","taskitem","nodeitem","recorditem",
+
+  "config","setting","specifier","directive","flag","option","mode","profile",
+  "preset","schema","manifest","definition","descriptor","contract",
+
+  "resource","asset","element","unit","layer","scope","range","limit",
+  "threshold","boundary","constraint","restriction","permission","role",
+
+  "toolchain","build","compiler","transpiler","parser","lexer","tokenizer",
+  "renderer","resolver","loader","bundler","processor","generator",
+
+  "validator","verifier","formatter","linter","fixer","plugin","extension",
+  "adapter","preset","integration","bridge","connector","provider","consumer",
+
+  "cache","buffer","storage","memstore","diskstore","driver","adapter",
+  "broker","handler","daemon","agent","worker","cluster","manager","managerfn",
+
+  "session","contextobject","sessionobject","scopeobject","result","output",
+  "input","errorobject","info","metadata","tag","label","entry","record",
+
+  "id","uuid","guid","identifier","referenceid","parent","child","root",
+  "ancestor","descendant","sibling","index","position","coordinate",
+
+  "formula","calculation","computation","metric","measurement","analysis",
+  "estimate","projection","model","simulation","testmodel","dataset",
+  "sample","sampledata","mapping","translation","conversion","normalization",
+
+  "namespace","partition","domain","space","realm","category","group","collection",
+
+  "utilityfn","workerfn","taskfn","helperfn","servicefn",
+
+  "jobqueue","taskqueue","messagequeue","workqueue","bufferqueue",
+  "channelqueue","sessionqueue","eventqueue",
+
+  "workflowgraph","dependencygraph","executiongraph","callgraph"
+]
+

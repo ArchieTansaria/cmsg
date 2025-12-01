@@ -1,0 +1,47 @@
+[
+    "added","created","built","generated","produced","constructed",
+    "updated","upgraded","downgraded","patched","fixed","resolved",
+    "refactored","restructured","reorganized","rewritten","realigned",
+    "modified","changed","edited","adjusted","tweaked","tuned","improved",
+    "enhanced","optimized","accelerated","stabilized","simplified","cleaned",
+    "polished","streamlined",
+
+    "implemented","integrated","connected","hooked","wired","attached",
+    "included","embedded","merged","combined","linked","joined",
+
+    "removed","deleted","cleared","dropped","uninstalled","discarded","stripped",
+    "pruned","cleaned up","cleanedup",
+
+    "configured","setup","set up","initialized","bootstrapped",
+    "activated","enabled","disabled","registered","deregistered","installed",
+
+    "retrieved","fetched","requested","posted","sent","received","returned",
+    "responded","queried","indexed","sorted","filtered","mapped","reduced",
+    "parsed","validated","normalized","transformed","converted","formatted",
+
+    "logged","printed","displayed","rendered","showed","hidden","masked",
+    "styled","restyled","themed","designed","aligned","centered",
+    "positioned","animated","transitioned",
+
+    "deployed","released","published","launched","delivered","uploaded",
+    "downloaded","synced","synchronized","bundled","packaged","shipped",
+
+    "cached","stored","saved","persisted","loaded","buffered","flushed",
+
+    "ran","executed","triggered","scheduled","invoked","processed",
+    "handled","managed","monitored","tracked","collected",
+
+    "authenticated","authorized","verified","validated","encrypted","decrypted",
+    "hashed","salted","signed","unsigened","rotated","revoked","expired",
+
+    "failed","crashed","broke","threw","thrown","blocked","denied",
+    "timed out","timeouted",
+
+    "tested","mocked","asserted","covered","benchmarked","profiled",
+
+    "compiled","transpiled","minified","uglified","compressed","expanded",
+    "generated","scaffolded","templated",
+
+    "committed","pushed","pulled","merged","rebased","cherry-picked","tagged",
+    "branched","stashed","restored","reverted"
+]

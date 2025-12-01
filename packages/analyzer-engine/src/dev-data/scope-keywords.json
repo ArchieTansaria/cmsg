@@ -1,0 +1,67 @@
+{
+    "ui": [
+        "ui", "ux", "theme", "dark", "light", "button", "icon", "layout", "grid",
+        "component", "design", "css", "scss", "style", "styles", "visual",
+        "font", "color", "palette", "modal", "dialog", "navbar", "sidebar",
+        "dropdown", "animation", "transition", "responsive", "accessibility",
+        "screen", "view", "page", "header", "footer", "form", "input",
+        "checkbox", "select", "slider", "avatar"
+    ],
+
+    "auth": [
+        "auth", "authentication", "authorization", "login", "logout", "signin",
+        "signup", "password", "token", "refresh token", "jwt", "session",
+        "credential", "otp", "verify", "security", "oauth", "oauth2",
+        "identity", "user account", "forgot password", "reset password"
+    ],
+
+    "api": [
+        "api", "endpoint", "endpoints", "fetch", "request", "response",
+        "rest", "restful", "graphql", "gql", "resolver", "mutation",
+        "query", "controller", "router", "routing", "middleware",
+        "integration", "http", "axios", "api call", "network", "payload",
+        "webhook"
+    ],
+
+    "db": [
+        "database", "db", "schema", "migration", "query", "queries",
+        "sql", "nosql", "mongodb", "postgres", "mysql", "index",
+        "table", "row", "column", "record", "transaction", "seed",
+        "seeding", "orm", "prisma", "mongoose", "relation"
+    ],
+
+    "core": [
+        "core", "main", "engine", "kernel", "runtime", "logic", "utils",
+        "utility", "internal", "base", "foundation", "service",
+        "processor", "system", "workflow", "algorithm", "compute"
+    ],
+
+    "cli": [
+        "cli", "command", "commands", "terminal", "shell", "prompt",
+        "console", "argument", "flag", "options", "stdin", "stdout",
+        "script", "automation", "task runner"
+    ],
+
+    "config": [
+        "config", "configuration", "settings", "env", "environment",
+        "dotenv", "yaml", "toml", "json", "properties", "setup",
+        "initialization", "preset", "profiles", "build config"
+    ],
+
+    "deployment": [
+        "deploy", "deployment", "ci", "cd", "pipeline", "docker", "dockerfile",
+        "compose", "container", "kubernetes", "helm", "ecs", "lambda",
+        "build", "bundle", "artifact", "release", "publish", "hosting",
+        "serverless"
+    ],
+
+    "testing": [
+        "test", "tests", "testing", "unit", "integration", "e2e", "mock",
+        "mocking", "fixture", "jest", "mocha", "chai", "vitest", "coverage"
+    ],
+
+    "docs": [
+        "docs", "documentation", "readme", "guide", "tutorial",
+        "examples", "api docs", "description", "instructions"
+    ]
+}

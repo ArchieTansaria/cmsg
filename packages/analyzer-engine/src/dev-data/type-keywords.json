@@ -1,0 +1,51 @@
+{
+    "feat": [
+        "add", "added", "add feature", "introduce", "introduced", "implement",
+        "implemented", "create", "created", "new", "build feature", "feature",
+        "enable", "support", "initial", "scaffold", "integration", "extend",
+        "extension", "launch", "release"
+    ],
+
+    "fix": [
+        "fix", "fixed", "bug", "bugfix", "issue", "resolve", "resolved", "patch",
+        "patched", "hotfix", "correct", "corrected", "repair", "repairing",
+        "fault", "defect", "glitch", "broken", "crash", "fail", "failing"
+    ],
+
+    "refactor": [
+        "refactor", "refactored", "cleanup", "clean up", "reorganize",
+        "restructure", "restructured", "rewrite", "overhaul", "optimize structure",
+        "simplify", "tidy", "modernize", "deprecate", "reformat", "rework",
+        "adjust architecture"
+    ],
+
+    "docs": [
+        "doc", "docs", "documentation", "readme", "comment", "comments",
+        "guide", "guides", "api docs", "tutorial", "explain", "explanation",
+        "write docs", "update docs", "improve docs"
+    ],
+
+    "test": [
+        "test", "tests", "testing", "spec", "unit test", "integration test",
+        "e2e test", "mock", "mocking", "coverage", "assert", "assertion",
+        "snapshot", "verify", "ci test"
+    ],
+
+    "chore": [
+        "config", "update deps", "dependencies", "dependency", "ci", "build",
+        "bump", "bump version", "upgrade", "downgrade", "infra", "infrastructure",
+        "task", "routine", "setup", "setup config", "environment", "env"
+    ],
+
+    "perf": [
+        "performance", "perf", "optimize", "optimized", "speed", "faster",
+        "latency", "improve perf", "memory", "cache", "caching", "benchmark",
+        "boost", "load time", "reduce time"
+    ],
+
+    "style": [
+        "format", "formatted", "style", "whitespace", "spacing", "indent",
+        "tab", "semicolon", "prettier", "lint", "linting", "cosmetic",
+        "visual", "align", "alignment", "rename"
+    ]
+}
