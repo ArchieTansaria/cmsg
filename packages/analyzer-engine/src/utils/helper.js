@@ -14,7 +14,7 @@ export const DICTIONARY = new Set(dictionary);
 
 
 //normalize text (remove articles + remove trailing period + convert to lowercase + deal with whitespaces)
-function normalizeText(text){
+export function normalizeText(text){
     return text
         .replace(/\b(a|an|the)\b/gi, '')
         .replace(/\.+$/, '')
@@ -24,7 +24,7 @@ function normalizeText(text){
 }
 
 //split normalized text into words
-function convertToWords(text){
+export function convertToWords(text){
     return normalizeText(text).split(' ')
 }
 
@@ -32,7 +32,7 @@ function convertToWords(text){
 // console.log(convertToWords("added dark mode"))
 
 //check if text contains keyword from list
-function keywordMapping(text, keywordMap){
+export function keywordMapping(text, keywordMap){
     const normalized = normalizeText(text)
 
     for (const [category, keywords] of Object.entries(keywordMap)){
@@ -49,7 +49,7 @@ function keywordMapping(text, keywordMap){
 
 
 //check if verb in past tense
-function checkPastTense(text){
+export function checkPastTense(text){
     const normalized = normalizeText(text)
     const wordedText = convertToWords(normalized)
     let exists = false
@@ -68,7 +68,7 @@ function checkPastTense(text){
 
 
 //change past tense to imperative 
-function convertToImperative(text){
+export function convertToImperative(text){
     const normalized = normalizeText(text)
     const wordedText = convertToWords(normalized)
 
@@ -84,7 +84,7 @@ function convertToImperative(text){
 
 
 //check if message is vague
-function checkVague(text){
+export function checkVague(text){
     const normalized = normalizeText(text)
     const wordedText = convertToWords(normalized)
     
@@ -112,7 +112,7 @@ function checkVague(text){
 
 
 // check if message is gibberish
-function checkGibberish(text){
+export function checkGibberish(text){
     const normalized = normalizeText(text)
     const wordedText = convertToWords(normalized)
 
