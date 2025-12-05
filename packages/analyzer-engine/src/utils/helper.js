@@ -1,4 +1,3 @@
-// import typeKeywords from "../dev-data/type-keywords.json" assert { type : "json" };
 import pastTenseVerbs from "../dev-data/past-tense-verbs.json" with { type : "json" };
 import conversions from "../dev-data/conversions.json" with { type : "json" };
 import vagueVerbs from "../dev-data/vague-verbs.json" with { type : "json" };
